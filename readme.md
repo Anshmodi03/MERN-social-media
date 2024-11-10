@@ -117,7 +117,7 @@ _Medium Article_: Detailed Guide
 
 For a step-by-step guide on how this project was built and explanations of the core concepts such as JWT authentication, React Hooks, and the MERN stack, check out my Medium article:
 
-[**Building a Social Media App with MERN Stack**](https://medium.com/@yourusername/creating-a-social-media-app-with-mern-stack-f14c0e5d02b5)
+[**Building a Social Media App with MERN Stack**](https://medium.com/@modiaastha01/building-a-full-stack-social-media-application-using-the-mern-stack-bd3cbb8d7297)
 
 ---
 
