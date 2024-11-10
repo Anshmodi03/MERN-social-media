@@ -119,9 +119,4 @@ For a step-by-step guide on how this project was built and explanations of the c
 
 [**Building a Social Media App with MERN Stack**](https://medium.com/@modiaastha01/building-a-full-stack-social-media-application-using-the-mern-stack-bd3cbb8d7297)
 
----
 
-_Acknowledgments_
-
-- Inspired by [MERN Stack Tutorial](https://www.digitalocean.com/community/tutorials)
-- Special thanks to the open-source community for their contributions!
