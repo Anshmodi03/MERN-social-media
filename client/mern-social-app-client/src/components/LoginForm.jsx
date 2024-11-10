@@ -12,7 +12,7 @@ const LoginForm = ({ setToken }) => {
     e.preventDefault();
     try {
       const response = await axios.post(
-        "https://ansh-mern-social-media.vercel.app/api/auth/login",
+        "http://localhost:5000/api/auth/login",
         { email, password }
       );
       setMessage("Login successful!");
