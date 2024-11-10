@@ -9,7 +9,7 @@ const PostForm = ({ token, refreshPosts }) => {
     e.preventDefault();
     try {
       const response = await axios.post(
-        "https://ansh-mern-social-media.vercel.app/api/posts",
+        "http://localhost:5000/api/posts",
         { content },
         {
           headers: {
