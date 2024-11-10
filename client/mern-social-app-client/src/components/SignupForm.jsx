@@ -13,7 +13,7 @@ const SignupForm = () => {
     e.preventDefault();
     try {
       const response = await axios.post(
-        "https://ansh-mern-social-media.vercel.app/api/auth/signup",
+        "http://localhost:5000/api/auth/signup",
         {
           username,
           email,
